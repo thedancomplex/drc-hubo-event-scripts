@@ -5,4 +5,5 @@ rm -R -f repos
 ./install-dep.sh
 ./install-hubo-ach.sh
 ./install-hubo-motion-rt.sh
+hubo-ach install sim-drc
 cd $HUBO_INSTALL_ROOT
