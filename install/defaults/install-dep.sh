@@ -28,6 +28,7 @@ sudo apt-get install python-pip
 sudo pip install http://code.golems.org/src/ach/py_ach-latest.tar.gz
 sudo apt-get install ros-groovy-desktop-full
 sudo apt-get install ros-groovy-rxgraph
+sudo apt-get install ros-groovy-openni-launch
 sudo apt-get install libeigen3-dev
 sudo apt-get install autoconf automake libtool autoconf-archive
 # Catkin
