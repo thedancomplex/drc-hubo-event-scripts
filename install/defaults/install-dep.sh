@@ -34,5 +34,6 @@ sudo apt-get install autoconf automake libtool autoconf-archive
 # Catkin
 sudo apt-get install cmake python-catkin-pkg python-empy python-nose python-setuptools libgtest-dev build-essential
 sudo apt-get install ros-groovy-catkin
+sudo apt-get install openbsd-inetd
 echo 'source /opt/ros/groovy/setup.bash' >> ~/.bashrc
 source ~/.bashrc
