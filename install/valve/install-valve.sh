@@ -11,6 +11,7 @@ catkin_init_workspace
 . ../get-repo-valve.sh
 cd ~/catkin_ws
 rospack profile
+source ~/catkin_ws/devel/setup.sh
 catkin_make
 catkin_make
 rm get-repo-valve.sh
