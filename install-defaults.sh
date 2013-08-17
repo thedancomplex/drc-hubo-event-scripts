@@ -1,3 +1,4 @@
+sudo ls > /dev/null
 HUBO_INSTALL_ROOT=$('pwd')
 cd defaults
 rm -R -f repos

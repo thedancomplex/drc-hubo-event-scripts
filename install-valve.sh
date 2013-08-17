@@ -1,3 +1,4 @@
+sudo ls > /dev/null
 HUBO_INSTALL_ROOT=$('pwd')
 cd valve
 ./install-valve.sh
