@@ -14,5 +14,6 @@ rospack profile
 source ~/catkin_ws/devel/setup.sh
 catkin_make
 catkin_make
+echo '~/catkin_ws/devel/setup.sh' >> ~/.bashrc
 rm get-repo-valve.sh
 rm rm-repo-valve.sh
