@@ -7,5 +7,6 @@ source ~/.bashrc
 ./install-hubo-ach.sh
 ./install-hubo-motion-rt.sh
 hubo-ach install sim-drc
+./install-hubo-ros.sh
 cd $HUBO_INSTALL_ROOT
 source ~/.bashrc
